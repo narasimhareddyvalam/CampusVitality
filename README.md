@@ -1,4 +1,4 @@
-##Campus Vitality
+Campus Vitality
 Campus Vitality is a web-based application exclusively designed for students to access affordable and tailored insurance plans.
 
 Key highlights of Campus Vitality:
